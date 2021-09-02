@@ -32,7 +32,7 @@
 
 //Third times the charm, this one has a const and a var and only 1 function
 const array = [];
-var counter = 0;
+let counter = 0;
 count();
 
 function count() {
